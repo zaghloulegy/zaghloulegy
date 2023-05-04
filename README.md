@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Zaghloul
 =================================
 
-Full Stack Developer
+Junior Software Developer
 --------------------
 
 * 🌍  I'm based in United Kingdom
