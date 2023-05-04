@@ -6,7 +6,6 @@ Junior Software Developer
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [zaghloulegy@gmail.com](mailto:zaghloulegy@gmail.com)
-* 🧠  I'm learning JavaScript & PHP
 
 ### Skills
 
