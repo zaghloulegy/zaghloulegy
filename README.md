@@ -5,9 +5,8 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [My Personal Website](http://https://mohamedzaghloul.co.uk/)
 * ✉️  You can contact me at [zaghloulegy@gmail.com](mailto:zaghloulegy@gmail.com)
-* 🧠  I'm learning JavaScript & Python
+* 🧠  I'm learning JavaScript & PHP
 
 ### Skills
 
